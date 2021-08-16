@@ -33,7 +33,7 @@ function App() {
           <span role='img' aria-label='love'>
             💚
           </span>{' '}
-          with by Shedrack Akintayo
+          ..
         </div>
       </footer>
     </div>
