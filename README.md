@@ -1,8 +1,18 @@
 # CONSUMING-REST-APIS
 
-This contains all the code used for my article "[Consuming REST APIs in React With Fetch and Axios.](https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/)" for smashing magazine
+React consume api with axios
 
-There are 2 more branches containing code and these branches are:
+install Axios in the React app 
 
-* [With-fetch](https://github.com/hacktivist123/consuming-rest-apis/tree/with-fetch)
-* [with-axios](https://github.com/hacktivist123/consuming-rest-apis/tree/with-axios)
+npm install axios
+
+or
+
+yarn add axios
+
+
+
+npm install
+
+npm start
+
